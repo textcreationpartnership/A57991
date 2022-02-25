@@ -1,0 +1,209 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from the Heer Lieutenant-Admiral De Ruyter to the States-General of the United-Provinces; giving an account of the late engagement between him, and the French fleet, on the coast of Sicily. Translated out of Dutch, as it was printed at the Hague.</title>
+            <author>Ruyter, Michiel Adriaanszoon de, 1607-1676.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A57991</idno>
+            <idno type="STC">Wing R2400B</idno>
+            <idno type="STC">ESTC R217860</idno>
+            <idno type="EEBO-CITATION">99829503</idno>
+            <idno type="PROQUEST">99829503</idno>
+            <idno type="VID">33943</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A57991)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 33943)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1980:03)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from the Heer Lieutenant-Admiral De Ruyter to the States-General of the United-Provinces; giving an account of the late engagement between him, and the French fleet, on the coast of Sicily. Translated out of Dutch, as it was printed at the Hague.</title>
+                  <author>Ruyter, Michiel Adriaanszoon de, 1607-1676.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>In the Savoy, printed by Tho. Newcomb,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed on p. 8: Michiel Ad. Ruyter.</note>
+                  <note>Copy tightly bound with slight loss of text.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dutch War, 1672-1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:33943:1"/>
+            <pb facs="tcp:33943:1" rendition="simple:additions"/>
+            <p>A LETTER FROM THE Heer Lieutenant-Admiral DE RUYTER, TO THE States-General of the
+<hi>
+                  <g ref="char:V">Ʋ</g>nited-Provinces;</hi> Giving an Account of the Late Engagement Between him, and the FRENCH FLEET, On the Coaſt of <hi>SICILY.</hi>
+            </p>
+            <p>
+               <hi>Tranſlated out of</hi> Dutch, <hi>as it was Printed at the</hi> Hague.</p>
+            <p>In the <hi>Savoy,</hi> Printed by <hi>Tho. Newcomb,</hi> 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:33943:2"/>
+            <pb n="3" facs="tcp:33943:2"/>
+            <head>A Letter from the Heer, Lieutenant-Admi<g ref="char:EOLhyphen"/>ral <hi>de Ruyter,</hi> written to the States-Ge<g ref="char:EOLhyphen"/>neral of the <hi>United Provinces,</hi> giving an Account of the late Engagement, be<g ref="char:EOLhyphen"/>tween him and the French Fleet, on the Coaſt of <hi>Sicily.</hi>
+            </head>
+            <opener>
+               <salute>High and Mighty Lords,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y Lords, Since my laſt to your Hi. and Mi. of the 10 of <hi>Decem<g ref="char:EOLhyphen"/>ber</hi> paſt, from the Bay of <hi>Cal<g ref="char:EOLhyphen"/>lary,</hi> we ſafely arrived the 20. following in the morning, with the greateſt part of your Fleet, in the Bay of <hi>Melazzo,</hi> and by my Secretary, made known to the Marquis of <hi>Villa Franca,</hi> Viceroy of the Kingdom of <hi>Sicily,</hi> our arrival, with the offer of our ſervice. His Excellency did me the Honour that very after<g ref="char:EOLhyphen"/>noon, to come and viſit me on board my Ship, and to bid me welcome; as I the next day, gave my Self the Honour to return his Excellencies Viſit. In both which Viſits, nothing of importance happened. I received his Excellency with all Civility, and at his going away, gave him the reſpect due to a Perſon of his high Quality; and on the other ſide, his Ex<g ref="char:EOLhyphen"/>cellency received me with the civilities required, in reſpect to your Hi. and Mi. amidſt the Salutes of the Canon of the Town, and of the Caſtle, and in the ſame manner diſmiſt me with great courteſy.</p>
+            <p>And that we might not here ſpend our time in vain, I thought fit, proviſionally, to appoint Capt. <hi>Nicholas Verſchoor,</hi> Rear-Admiral, for this Expe<g ref="char:EOLhyphen"/>dition, and to depute <hi>Jacob Benkhout,</hi> and the
+<pb n="4" facs="tcp:33943:3"/>Count of <hi>Stirum,</hi> aſſiſted by my Secretary, to the Marquis <hi>de Villa Franca,</hi> to concert with his Excel<g ref="char:EOLhyphen"/>lency, what ought to be moſt ſpeedily undertaken againſt the common Enemy, with your Hi. and Mi. Fleet, and withal, earneſtly to preſs, that as many <hi>Spaniſh</hi> Men of War and Gallies, as was poſſible, might be joyned with us, that ſo we might be the ſtronger, in caſe; a conſiderable force of the Ene<g ref="char:EOLhyphen"/>mies, ſhould happen to meet us at Sea; where<g ref="char:EOLhyphen"/>upon, with the moſt forcible Reaſons, and by the importance, and neceſſity of the thing, his Excel<g ref="char:EOLhyphen"/>lency was finally perſwaded, upon the 31 of the laſt month, to conclude; That we ſhould, with your Hi. and Mi. Fleet, paſs the <hi>Fare</hi> of <hi>Meſſina,</hi> to cut off from the Enemy, who cruiſed to and fro, be<g ref="char:EOLhyphen"/>tween the Cape <hi>De la Molina,</hi> and the Cape <hi>d<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Arme,</hi> all ſuccors deſigned to
+<hi>Meſſina,</hi> while his Ex<g ref="char:EOLhyphen"/>cellency, in the mean time, gave Order, that the
+<hi>Spaniſh</hi> Men of War lying at <hi>Palermo,</hi> under the Command of the Prince of
+<hi>Monteſarchio,</hi> ſhould, with all ſpeed, be got ready; adding in the interim, under your Hi. and Mi. Flag, the <hi>Spaniſh</hi> man of war, named <hi>Noſtra Signora del Roſario,</hi> mounted with 50 Guns, and 300 Men, Commanded by Capt. <hi>de Saye,</hi> with 9 Gallies, Commanded by Don <hi>Beltran de Gavarra,</hi> Lieutenant, and Governour-General of the
+<hi>Neopo<g ref="char:EOLhyphen"/>litan</hi> Gallies. The night, between the 31 paſt, and the 1 inſtant, the Vice-Admiral <hi>de Haen,</hi> with the nine Ships under his Command, who on the <hi>8th</hi> of
+<hi>Nov.</hi> laſt, was ſeparated from us in a Storm, happily joyned us in the Bay of
+<hi>Melazzo;</hi> and thereupon, the night of the ſaid I inſtant, we ſet ſail together, taking our courſe along the Coaſt, towards the Streight of <hi>Meſſina,</hi> with intention to paſs the ſaid <hi>Streight,</hi> and afterwards the ſaid appointed Rendezvouz, between the
+<hi>Cape de la Molina,</hi> and <hi>Cape del Arme;</hi> but in the latter part of the night it was very calm, and the next day, the wind prov<g ref="char:EOLhyphen"/>ed contrary.</p>
+            <pb n="5" facs="tcp:33943:3"/>
+            <p>The Second inſtant in the Morning, very early, the <hi>Spaniards</hi> in our ſight, Attacked a ſmall place called <hi>Ibiſo,</hi> which was Manned with French and Rebels, and after three hours diſpute, took it, with the loſs of ten Men, and ſome Wounded, and on the ſide of the Enemy, about ſixty Killed, beſides Wounded, and feventy taken Priſoners, among which was a Collonel, a <hi>Milaneſe</hi> by Birth, who had quitted the Spaniſh Ser<g ref="char:EOLhyphen"/>vice: In the mean time, the Marquis <hi>de Villa Franca,</hi> Viceroy of the Iſland of <hi>Sicily</hi> aforeſaid, ſent ſeveral Feluccas to the <hi>Fare,</hi> (where we continued Cruiſing till the fifth inſtant) with advice, that a conſiderable Fleet of the Enemies Ships, were Sailed from
+<hi>Thoulon,</hi> for the Succouring of <hi>Meſſina;</hi> and that they had been firſt ſeen by thoſe of <hi>Leghorne,</hi> and afterwards from the Iſlands lying before the ſaid Kingdom of <hi>Sicily,</hi> and lately from the Iſle of <hi>Lipari,</hi> whereupon, (find<g ref="char:EOLhyphen"/>ing, that by reaſon of the ſaid contrary Winds, we could not come to paſs the ſaid <hi>Streight,</hi>) I reſolved to Tack the ſixth inſtant in the Morning, and to ſtand to the Weſtward, to find out the Enemy; we advanced that day, cloſe under the ſaid Iſland of <hi>Lipari,</hi> but could not from our Shrowds, as yet diſcover the Ene<g ref="char:EOLhyphen"/>my, notwithſtanding we had advice, by Barks and Felucca's from all ſides, that the ſaid Enemies Fleet was ſtill obſerved from the ſhoar. I endeavored to inform my ſelf, how the Enemy bore from us, and which way they ſteered, that ſo we might be the ſooner with them; the firſt they could well enough tell me, but in the latter, they did ſo vary, that I was forced to ſend off one of my Lieutenants in a Felucca, with ſome of the moſt knowing Felucca Men, towards the Iſland <hi>Salinas,</hi> if poſſible, to diſcover from the Hills, (which are very high) the Enemies courſe; upon whoſe re<g ref="char:EOLhyphen"/>turn, we ſteered the night following Northwards to<g ref="char:EOLhyphen"/>wards them; the next morning, with the opening of the day, the Wind <hi>S. S. W.</hi> a ſmal Gale, we got ſight of them, being Thirty Sail, counting a <hi>Polacke</hi> and
+<pb n="6" facs="tcp:33943:4"/>a <hi>Satie,</hi> about three miles from us; and to oblige them to an Engagement yet that day, we, and all the Ships of your Hi. and Mi. Fleet, put up all the Sail they could poſſibly bear, the ſooner to reach the Enemy, which we ſo far did, that ſome of the forwardeſt of them, were forced to furl ſome of their Sails, and to ſtay for thoſe who were not ſo good Sailers, keeping in the mean time, as near the Wind as was poſſible, to gain an advantage upon us; about three in the afternoon, I gave the ſign, to the end the head Officers, Captains, and Commanders, might, purſu<g ref="char:EOLhyphen"/>ant to their general, and particular Inſtructions, put themſelves into their ſeveral ſtations, as was according<g ref="char:EOLhyphen"/>ly done, but in the mean time the night came on; ſo that I reſolved to defer the Attack for that day, and to call the head Officers on bord my Ship, to bid them hold themſelves ready againſt the next day, be<g ref="char:EOLhyphen"/>ing the eighth inſtant, to Attack the Enemy, recom<g ref="char:EOLhyphen"/>mending to them, at the ſame time, that for the Love of their Country, and the ſooner to obtain an Hono<g ref="char:EOLhyphen"/>rable and Laſting Peace, they would take care of their Honor and Oath, which they all taking me by the hand, unanimouſly promiſed.</p>
+            <p>I ſent a halfe Galley (ſo called) halfe way, be<g ref="char:EOLhyphen"/>tween us and the Enemy, to obſerve them in the night, directing the Capt. that ſo long as they held the ſame courſe with us, he ſhould every Glaſs fire a Gun; and in caſe the Enemy happened to Tack, to retreat, ſhoot<g ref="char:EOLhyphen"/>ing all the way to us; towards the latter part of the night, the Wind increaſed, and blew ſo hard from the
+<hi>W. S. W.</hi> that not only he was obliged to quit his Poſt, but likewiſe the other nine
+<hi>Spaniſh</hi> Gallies, who ſtood towards <hi>Lipari,</hi> to cover themſelves un<g ref="char:EOLhyphen"/>der the ſhore: In the laſt of the Night watch, the Enemy gave the ſigne to Tack, whereupon, I like<g ref="char:EOLhyphen"/>wiſe gave the ſigne to Tack; at break of day, we a<g ref="char:EOLhyphen"/>gain got ſight of them, they bearing along with us, but the Wind had ſharpened upon us, ſix Points, and
+<pb n="7" facs="tcp:33943:4"/>was ſo bare, that the Enemy got the Luffe.</p>
+            <p>About 9 a clock, they being in good Order, and well ranked, came upon us like Soldiers, as we cou<g ref="char:EOLhyphen"/>ragiouſly, and likewiſe in good Order expected them, ſo that within an hour after the foremoſt Ships on both ſides, began to fire upon each other, which laſt<g ref="char:EOLhyphen"/>ed about three hours ſo furiouſly, (that I never in my life was in ſharper firing) when one of the Enemies Fireſhips, under the favour of the Smoak, and the Can<g ref="char:EOLhyphen"/>non of their Vice-Admiral, came down upon us, but we ſhot down his Maſts, and diſabled him, ſo that the Captain was forced himſelf to ſet fire to her, for fear of her falling into our hands; about halfe an hour after, a ſecond of the Enemies Fire-Ships had her Maſts ſhot down, and was burnt; the Fight laſted with the Reer-Admiral <hi>Verſchoor,</hi> who had the Van, and with us, till between four and five in the afternoon, and with the Vice-Admiral <hi>de Haen,</hi> who had the Rear, and conſequently, came laſt into the Fight, till dark night, which likewiſe parted them; with the ſetting of the Sun, a conſiderable Ship of War of the Ene<g ref="char:EOLhyphen"/>mies ſunk in our ſight, others will have it, that there is a ſecond ſunk, which neither I, nor any of my Ship ſaw; after the Fight, the ſaid Nine Galleys came to us again, and continued with us all the night. The head Officers and Captains, of your Hi. and Mi. Fleet, fought bravely, and without ceaſing, as the Enemy likewiſe did on their ſide; during the Fight it was ex<g ref="char:EOLhyphen"/>tream calm; we and all your Hi. and Mi. Fleet, hath ſuffered great damage in our Maſts, Tackle, and Sails. The night paſt, we have been employed to put up new Staies, to ſtop Leaks, bring new Sails to the Yards, and to mend our Tackle, ſo that we, and moſt all of the other Ships, are in a condition to make head againſt the Enemy, who, (as much as we can diſcern from our ſhrowds,) lye on our Lee, but the weather is very calm, ſo that we ſhall not be able to get up with one another this day.</p>
+            <pb n="8" facs="tcp:33943:5" rendition="simple:additions"/>
+            <p>Captain <hi>Gillis Schey,</hi> commanding the Ship <hi>Eſſen</hi> came the laſt night on board me, and acquainted me that he had received one or more ſhots under water and that he could not find the Leak, by which, much water was come into his Ship, and had wet all h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Powder, and therefore deſired that we would ſend <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Carpenter on board him, to help to find it; we ſen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Captains <hi>Berkout,</hi> and
+<hi>Van Abcoude,</hi> with ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> chief Carpenter on board him, who heard the Leak<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> but could not find it, wherefore I deſired Don <hi>Beltra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> de Guavarra,</hi> Lieutenant General of the ſaid Galleys to ſend two of his Galleys to towe the ſaid Ship th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Eſſen</hi> to
+<hi>Palermo,</hi> or ſome other Port, as the win<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould moſt favor, which he immediately granted;
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> likewiſe put into the hands of Captain
+<hi>Schey,</hi> an Act of Permiſſion, to get the ſaid Ship, into the firſt and moſt convenient Port, and there to repair the ſame with all poſſible diligence; and for the better executi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on of this Order, the Commanders
+<hi>Wybrandtz B<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rentz</hi> Commanding a
+<hi>Snaw,</hi> and <hi>Jacob Statlander,</hi> i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the <hi>Fluyt,</hi> the <hi>Swarte Tas,</hi> are directed to keep with the ſaid Captain
+<hi>Schey,</hi> to aſſiſt him in all things.</p>
+            <p>This Morning I called the Head Officers, Captains and Commanders on board me, to know what damag<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they had ſuſtained, and what they moſt wanted.</p>
+            <p>The Reer-Admiral <hi>Verſchoor</hi> in the Fight yeſter<g ref="char:EOLunhyphen"/>day, ſlept in the Lord in the bed of Honor. W<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can fairly ſee the Prince of
+<hi>Monteſarchio,</hi> with Nin<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sail from our Ship, ſo that by the help of God, w<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> hope to joyn his Excellency yet this day.</p>
+            <p>Wherewith, <hi>&amp;c.</hi> in the Ship the <hi>Erendracht</hi> Sailing Weſtward of the Iſland <hi>Alicur,</hi> the Ninth of <hi>January,</hi> 1676.</p>
+            <closer>
+               <signed>Michiel Ad. Ruyter</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
